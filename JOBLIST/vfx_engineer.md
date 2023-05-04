@@ -1,0 +1,17 @@
+
+
+|    | platform    | company                             | job                                                                                                                                     | update_time   | location           |
+|---:|:------------|:------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|:--------------|:-------------------|
+|  1 | SimplyHired | Activision                          | [Expert VFX Engineer](https://www.simplyhired.com/job/R9gzBazJlezxlSm2WITE3XlbtPQGysO7ZdrSSFEKrzRcXXxnIFAx0A?q=vfx+engineer)            | Recently      | Woodland Hills, CA |
+|  2 | SimplyHired | Blur                                | [VFX/CG Pipeline Engineer](https://www.simplyhired.com/job/8SxsBog62J0Vim3PJYfpAX6Wzy1cVkmm1sXL1ODRT0_gUjOAHs4RDQ?q=vfx+engineer)       | Recently      | Culver City, CA    |
+|  3 | SimplyHired | Disney                              | [Software Engineer in Test](https://www.simplyhired.com/job/625DLylKS0iwtaHOGmO-uHCZrXNn_QDK2P7UnLi6axBrplfGop3tUQ?q=vfx+engineer)      | Recently      | Emeryville, CA     |
+|  4 | SimplyHired | Disney                              | [Sr. Build and Release Engineer](https://www.simplyhired.com/job/O8N4ETz1ITAUh2kKhpR9T8qPDw4UWxfk1-r78cwC3V-a4Z6AVkL0uA?q=vfx+engineer) | Recently      | Emeryville, CA     |
+|  5 | SimplyHired | Disney                              | [Associate Production Engineer](https://www.simplyhired.com/job/8I4AfDb9ZVnWQma2FpWdQGNeUkQKcvhU39NwxwC0BjsWaQVuFVAcsg?q=vfx+engineer)  | Recently      | San Francisco, CA  |
+|  6 | SimplyHired | MSG Sphere                          | [Junior Software Engineer](https://www.simplyhired.com/job/hj35vVPgMFUpww_7wbVnDQeH4qiNfSzp0IWzB6dxhhW2de335kpZIw?q=vfx+engineer)       | Today         | Burbank, CA        |
+|  7 | SimplyHired | Madison Square Garden Entertainment | [Junior Software Engineer](https://www.simplyhired.com/job/9Th9YZtagIZAwp_NS9FPnzImyHhhv7iE1FgV0ZsQHU3bFEOhMI0l9w?q=vfx+engineer)       | Today         | Burbank, CA        |
+|  8 | SimplyHired | Onward Search                       | [Senior FX Artist](https://www.simplyhired.com/job/nm2UAtmBCmaKCUKNQdNhq9G09WUmjiNNP1Q24SCqyIAVlTzTX_sGPA?q=vfx+engineer)               | Recently      | Seattle, WA        |
+|  9 | SimplyHired | Pixar Animation Studios             | [Software Engineer in Test](https://www.simplyhired.com/job/hDFX03T2cMRRfzf18rEJXcPj0XNbeeYQfWLefxjzPqiy1AD6OR0OTg?q=vfx+engineer)      | Recently      | Emeryville, CA     |
+| 10 | SimplyHired | Pixar Animation Studios             | [Sr. Build and Release Engineer](https://www.simplyhired.com/job/eLu72HtCL1IMNmVX40JSTI0cdW6819GIARrgWFtFY28hgpcJT-f9Rg?q=vfx+engineer) | Recently      | Emeryville, CA     |
+| 11 | SimplyHired | Quantum                             | [PreSales Systems Engineer](https://www.simplyhired.com/job/ziCc9lKgvggiHRn7m0DqU74pkbSxPhDgc1JHbYzA3hYhK1aFGEksnw?q=vfx+engineer)      | 12d           | Remote +1 location |
+| 12 | SimplyHired | Quantum US                          | [PreSales Systems Engineer](https://www.simplyhired.com/job/4v1TyDFWb9WfseSwjaRZlavdYi_vlHICXf5qWoAgittdkpW2pXoobA?q=vfx+engineer)      | 12d           | California         |
+| 13 | SimplyHired | Sigma Resources                     | [Senior Game Artist](https://www.simplyhired.com/job/dTjtz4SbZdH1kU6eW50uqwMvSWKP9-fqjeWPphp6LOfQKu41w3UKkQ?q=vfx+engineer)             | Recently      | Pittsburgh, PA     |
